@@ -21,7 +21,7 @@ __Kelas : TI.20.A.1__
 
 ![tugas1](FOTO/1.png)
 
-Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan1.py)
+Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](Code](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/project7-latihan1.py)
 
 ```python
 baris = 10
@@ -59,7 +59,7 @@ print()
 
 Maka program yang di hasil seperti berikut
 
-![tampil1](FOTO/2.png)
+![tampil1](FOTO/02.png)
 
 
 ### Latihan 2
@@ -70,10 +70,10 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](FOTO/3.png)
+![output 2](FOTO/03.png)
 
 
-Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan2.py)
+Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/project7-latihan2.py)
 
 ```python
 import random
@@ -114,5 +114,5 @@ angkaDec = random.uniform(0, 0.5)
 
 Maka program yang dihasilkan akan seperti berikut
 
-![tampil 2](FOTO/4.png)
+![tampil 2](FOTO/04.png)
 
