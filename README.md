@@ -2,7 +2,7 @@
 
 ## Kondisi dan perulangan
 
-![logo](gambar/logo1.png)
+![logo](FOTO/logo1.png)
 
 __Nama : Muhammad Romdhon__
 
@@ -13,13 +13,13 @@ __Kelas : TI.20.A.1__
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [lihat](https://github.com/PUTERIALIFIA/project7/blob/main/README.md) | [Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan1.py) |
-| 2. | Latihan 2 | [lihat](https://github.com/PUTERIALIFIA/project7/blob/main/README.md) | [Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan2.py) |
+| 1. | Latihan 1 | [lihat](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/README.md) | [Code](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/project7-latihan1.py) |
+| 2. | Latihan 2 | [lihat](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/README.md) | [Code](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/project7-latihan2.py) |
 
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
-![tugas1](gambar/tampilan1.png)
+![tugas1](FOTO/1.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan1.py)
 
@@ -59,7 +59,7 @@ print()
 
 Maka program yang di hasil seperti berikut
 
-![tampil1](gambar/hasil1.png)
+![tampil1](FOTO/2.png)
 
 
 ### Latihan 2
@@ -70,7 +70,7 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](gambar/tampilan3.png)
+![output 2](FOTO/3.png)
 
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan2.py)
@@ -114,5 +114,5 @@ angkaDec = random.uniform(0, 0.5)
 
 Maka program yang dihasilkan akan seperti berikut
 
-![tampil 2](gambar/hasil2.png)
+![tampil 2](FOTO/4.png)
 
