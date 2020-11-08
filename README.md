@@ -2,7 +2,7 @@
 
 ## Kondisi dan perulangan
 
-![logo](FOTO/logo1.png)
+![logo](foto/logo1.png)
 
 __Nama : Muhammad Romdhon__
 
@@ -19,7 +19,7 @@ __Kelas : TI.20.A.1__
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
-![tugas1](FOTO/1.png)
+![tugas1](foto/11.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](Code](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/project7-latihan1.py)
 
@@ -59,7 +59,7 @@ print()
 
 Maka program yang di hasil seperti berikut
 
-![tampil1](FOTO/02.png)
+![tampil1](FOTO/12.png)
 
 
 ### Latihan 2
@@ -70,7 +70,7 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](FOTO/03.png)
+![output 2](FOTO/13.png)
 
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/Muhammadromdhon/project7-latihan1/blob/main/project7-latihan2.py)
@@ -114,5 +114,5 @@ angkaDec = random.uniform(0, 0.5)
 
 Maka program yang dihasilkan akan seperti berikut
 
-![tampil 2](FOTO/04.png)
+![tampil 2](FOTO/14.png)
 
